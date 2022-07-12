@@ -1,0 +1,14 @@
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\bin\Debug\netcoreapp3.1\E-Shop.Service.deps.json
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\bin\Debug\netcoreapp3.1\E-Shop.Service.dll
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\bin\Debug\netcoreapp3.1\E-Shop.Service.pdb
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\bin\Debug\netcoreapp3.1\E-Shop.Domain.dll
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\bin\Debug\netcoreapp3.1\E-Shop.Repository.dll
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\bin\Debug\netcoreapp3.1\E-Shop.Domain.pdb
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\bin\Debug\netcoreapp3.1\E-Shop.Repository.pdb
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\obj\Debug\netcoreapp3.1\E-Shop.Service.csproj.AssemblyReference.cache
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\obj\Debug\netcoreapp3.1\E-Shop.Service.AssemblyInfoInputs.cache
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\obj\Debug\netcoreapp3.1\E-Shop.Service.AssemblyInfo.cs
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\obj\Debug\netcoreapp3.1\E-Shop.Service.csproj.CoreCompileInputs.cache
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\obj\Debug\netcoreapp3.1\E-Shop.Service.csproj.CopyComplete
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\obj\Debug\netcoreapp3.1\E-Shop.Service.dll
+C:\Users\Nikola Nushev\source\repos\E-Shop\E-Shop.Service\obj\Debug\netcoreapp3.1\E-Shop.Service.pdb
